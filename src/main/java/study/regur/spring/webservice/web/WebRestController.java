@@ -1,4 +1,4 @@
-package study.regur.spring.webservice;
+package study.regur.spring.webservice.web;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
