@@ -17,10 +17,9 @@ cache:
 
 script: "./gradlew clean build"
 
-...
 before_deploy:
   - zip -r webservice *
-  - sudo mkdir -p deploy
+  - mkdir -p deploy
   - mv webservice.zip deploy/webservice.zip
 
 deploy:
