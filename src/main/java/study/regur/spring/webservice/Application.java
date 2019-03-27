@@ -8,7 +8,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 @SpringBootApplication
 public class Application {
 
-    //Window일때
+    //Window일때sdsd
 /*    public static final String APPLICATION_LOCATIONS = "spring.config.location="
             + "classpath:application.yml,"
             + "D:\\intellijWorkspace\\webservice\\app\\config\\webservice\\real-application.yml";*/
